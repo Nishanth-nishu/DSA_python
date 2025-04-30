@@ -8,4 +8,4 @@ class Solution:
                 check.append(List[i])
         return False
 
-         
+#nishanth0962333@gmail.com       
